@@ -1,0 +1,2 @@
+# EducacionalS
+Seguridad y protocolos
