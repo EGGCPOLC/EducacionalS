@@ -65,6 +65,7 @@
       "minecraft:jagged_peaks": "2025-04-23 05:05:12 +0000",
       "minecraft:ocean": "2025-04-24 01:41:56 +0000",
       "minecraft:flower_forest": "2025-04-23 04:05:41 +0000",
+      "minecraft:deep_dark": "2025-04-24 02:50:42 +0000",
       "minecraft:meadow": "2025-04-23 05:05:17 +0000",
       "minecraft:savanna": "2025-04-23 04:16:04 +0000",
       "minecraft:plains": "2025-04-23 04:00:30 +0000"
@@ -5464,6 +5465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-24 02:47:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-04-24 02:03:45 +0000"
@@ -5485,6 +5492,12 @@
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2025-04-24 02:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 02:47:05 +0000"
     },
     "done": true
   },

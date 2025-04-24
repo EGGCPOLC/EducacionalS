@@ -730,3 +730,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 02:12:10.548] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26515, l='ServerLevel[world]', x=314.70, y=66.42, z=891.20] died, message: 'Villager was slain by Zombie'
 [24Apr2025 02:21:02.433] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3035ms or 60 ticks
 [24Apr2025 02:45:51.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas fell from a high place
+[24Apr2025 02:47:48.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Forbidden Fruit]

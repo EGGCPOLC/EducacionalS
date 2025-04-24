@@ -4571,3 +4571,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 02:45:32.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 02:45:32.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Apr2025 02:45:51.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas fell from a high place
+[24Apr2025 02:47:48.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Forbidden Fruit]
+[24Apr2025 02:48:32.432] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:slow 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
+[24Apr2025 02:48:54.767] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
+[24Apr2025 02:49:30.384] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:slow 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
+[24Apr2025 02:50:32.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 02:50:33.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 02:55:09.868] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
+[24Apr2025 02:55:32.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 02:55:32.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 02:55:46.672] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
+[24Apr2025 02:56:38.362] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
+[24Apr2025 02:56:45.412] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
