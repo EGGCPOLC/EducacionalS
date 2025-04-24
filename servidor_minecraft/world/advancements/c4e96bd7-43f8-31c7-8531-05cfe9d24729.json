@@ -5014,6 +5014,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "tomato": "2025-04-24 04:42:15 +0000",
+      "wheat": "2025-04-24 04:42:08 +0000",
       "carrot": "2025-04-23 07:26:47 +0000"
     },
     "done": false
@@ -5789,6 +5791,12 @@
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-04-24 03:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-24 04:42:08 +0000"
     },
     "done": true
   },

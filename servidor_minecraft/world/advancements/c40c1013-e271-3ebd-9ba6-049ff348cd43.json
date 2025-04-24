@@ -5217,6 +5217,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-24 04:38:22 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/vegetable_sandwich": {
     "criteria": {
       "has_carrot": "2025-04-24 04:05:01 +0000"
