@@ -134,6 +134,7 @@
       "wetland": "2025-04-24 07:18:54 +0000",
       "cold_desert": "2025-04-23 08:51:54 +0000",
       "old_growth_woodland": "2025-04-23 08:16:00 +0000",
+      "field": "2025-04-24 08:02:57 +0000",
       "orchard": "2025-04-24 07:03:46 +0000",
       "lavender_forest": "2025-04-23 08:20:53 +0000",
       "coniferous_forest": "2025-04-23 08:51:10 +0000",
@@ -148,6 +149,7 @@
       "prairie": "2025-04-23 08:50:56 +0000",
       "snowy_fir_clearing": "2025-04-23 08:52:04 +0000",
       "snowy_coniferous_forest": "2025-04-24 03:08:06 +0000",
+      "glowing_grotto": "2025-04-24 08:06:59 +0000",
       "rainforest": "2025-04-23 09:15:27 +0000",
       "snowy_maple_woods": "2025-04-23 08:52:46 +0000",
       "crag": "2025-04-24 07:06:56 +0000"
@@ -6256,6 +6258,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-04-24 06:48:57 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-04-24 08:02:53 +0000"
     },
     "done": true
   },
