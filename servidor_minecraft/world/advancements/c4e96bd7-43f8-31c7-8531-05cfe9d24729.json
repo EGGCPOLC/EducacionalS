@@ -341,6 +341,7 @@
       "shrubland": "2025-04-23 04:02:23 +0000",
       "rocky_shrubland": "2025-04-23 05:38:55 +0000",
       "scrubland": "2025-04-23 04:15:35 +0000",
+      "lavender_forest": "2025-04-24 01:57:34 +0000",
       "dune_beach": "2025-04-24 01:42:24 +0000",
       "pasture": "2025-04-23 04:13:32 +0000",
       "prairie": "2025-04-23 04:11:50 +0000"
@@ -739,6 +740,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-24 01:58:42 +0000",
       "bread": "2025-04-23 04:10:03 +0000",
       "cooked_chicken": "2025-04-23 05:44:52 +0000",
       "carrot": "2025-04-23 04:40:48 +0000"
@@ -5427,6 +5429,30 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-04-23 08:43:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-04-24 02:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-24 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-24 02:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-24 01:52:19 +0000"
     },
     "done": true
   },
