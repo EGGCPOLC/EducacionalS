@@ -5201,45 +5201,33 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
-      "has_rotten_flesh": "2025-04-24 03:17:31 +0000"
+      "has_spider_eye": "2025-04-24 02:17:48 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_planks": "2025-04-24 04:06:02 +0000"
+      "has_spider_eye": "2025-04-24 02:17:48 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_any_ingredient": "2025-04-24 04:05:01 +0000"
+      "has_kelp": "2025-04-24 02:43:31 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "deflected_projectile": "2025-04-24 04:38:22 +0000"
+      "has_kelp": "2025-04-24 02:43:31 +0000"
     },
     "done": true
   },
-  "bakery:recipes/vegetable_sandwich": {
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
-      "has_carrot": "2025-04-24 04:05:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
-    "criteria": {
-      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-24 04:26:16 +0000"
+      "has_kelp": "2025-04-24 02:43:31 +0000"
     },
     "done": true
   },
@@ -5249,15 +5237,174 @@
     },
     "done": true
   },
-  "bakery:recipes/strawberry_chocolate": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "has_strawberry": "2025-04-24 05:16:12 +0000"
+      "has_apple": "2025-04-24 02:47:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-04-24 04:20:34 +0000",
+      "kelp": "2025-04-24 02:49:08 +0000",
+      "wheat": "2025-04-24 04:20:03 +0000",
+      "carrot": "2025-04-24 04:05:21 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-24 03:17:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-24 03:17:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-04-24 04:05:01 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-24 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-24 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-04-24 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-24 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-04-24 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-04-24 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-04-24 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-24 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-04-24 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-24 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-24 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/crafting_bowl": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-04-24 04:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-24 04:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-24 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:26:16 +0000"
     },
     "done": true
   },
@@ -5270,18 +5417,6 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-24 04:26:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-04-24 04:23:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-04-24 05:07:51 +0000"
     },
     "done": true
   },
@@ -5309,72 +5444,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-04-24 02:47:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "tomato": "2025-04-24 04:20:34 +0000",
-      "kelp": "2025-04-24 02:49:08 +0000",
-      "wheat": "2025-04-24 04:20:03 +0000",
-      "carrot": "2025-04-24 04:05:21 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/crafting_bowl": {
-    "criteria": {
-      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-04-24 02:43:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-04-24 04:26:16 +0000"
     },
     "done": true
   },
-  "bakery:main/find_wild_crops": {
-    "criteria": {
-      "lettuce": "2025-04-24 05:16:12 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-24 04:26:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-04-24 05:07:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-24 04:06:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/jacaranda_door": {
-    "criteria": {
-      "has_planks": "2025-04-24 04:06:02 +0000"
     },
     "done": true
   },
@@ -5387,48 +5465,6 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-24 04:26:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-04-24 04:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-04-24 02:43:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/jacaranda_fence": {
-    "criteria": {
-      "has_planks": "2025-04-24 04:06:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-04-24 02:43:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/jacaranda_button": {
-    "criteria": {
-      "has_planks": "2025-04-24 04:06:02 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/strawberry_seeds": {
-    "criteria": {
-      "has_strawberry": "2025-04-24 05:16:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-24 04:05:01 +0000"
     },
     "done": true
   },
@@ -5447,12 +5483,6 @@
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-24 04:26:16 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-24 04:06:02 +0000"
     },
     "done": true
   },
@@ -5480,33 +5510,15 @@
     },
     "done": true
   },
-  "bakery:recipes/strawberry_crate": {
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
-      "has_strawberry": "2025-04-24 05:16:12 +0000"
+      "has_boat": "2025-04-24 04:26:16 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_spider_eye": "2025-04-24 02:17:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/jacaranda_sign": {
-    "criteria": {
-      "has_jacaranda_planks": "2025-04-24 04:06:02 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/loam": {
-    "criteria": {
-      "has_clay_ball": "2025-04-24 05:07:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-04-24 02:17:48 +0000"
+      "has_lilac": "2025-04-24 04:28:31 +0000"
     },
     "done": true
   },
@@ -5516,63 +5528,225 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
+      "deflected_projectile": "2025-04-24 04:38:22 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/beef_stew": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_any_ingredient": "2025-04-24 04:05:01 +0000"
+      "has_clay_ball": "2025-04-24 05:07:51 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "has_planks": "2025-04-24 04:06:02 +0000"
+      "has_clay_ball": "2025-04-24 05:07:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "vinery:recipes/loam": {
     "criteria": {
-      "has_carrot": "2025-04-24 04:05:01 +0000"
+      "has_clay_ball": "2025-04-24 05:07:51 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+  "bakery:recipes/strawberry_chocolate": {
     "criteria": {
-      "has_planks": "2025-04-24 04:06:02 +0000"
+      "has_strawberry": "2025-04-24 05:16:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+  "bakery:main/find_wild_crops": {
     "criteria": {
-      "has_rotten_flesh": "2025-04-24 03:17:31 +0000"
+      "lettuce": "2025-04-24 05:16:12 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "bakery:recipes/strawberry_seeds": {
     "criteria": {
-      "wheat": "2025-04-24 04:20:03 +0000"
+      "has_strawberry": "2025-04-24 05:16:12 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+  "bakery:recipes/strawberry_crate": {
     "criteria": {
-      "has_boat": "2025-04-24 04:26:16 +0000"
+      "has_strawberry": "2025-04-24 05:16:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_dried_kelp_block": "2025-04-24 04:16:44 +0000"
+      "has_chicken": "2025-04-24 05:52:06 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
-      "has_any_ingredient": "2025-04-24 04:05:01 +0000"
+      "has_straw": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-04-24 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-24 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-04-24 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-24 05:52:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-24 05:54:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-04-24 05:54:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-04-24 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-24 05:54:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-04-24 05:57:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-24 05:54:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-24 05:54:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-04-24 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-24 05:54:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-24 05:54:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_skillet": {
+    "criteria": {
+      "skillet": "2025-04-24 05:56:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-04-24 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-04-24 05:57:36 +0000"
     },
     "done": true
   },

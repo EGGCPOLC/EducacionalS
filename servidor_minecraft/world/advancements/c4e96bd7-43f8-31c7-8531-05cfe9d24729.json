@@ -5016,6 +5016,7 @@
     "criteria": {
       "cabbage": "2025-04-24 05:29:21 +0000",
       "tomato": "2025-04-24 04:42:15 +0000",
+      "rice": "2025-04-24 06:00:16 +0000",
       "wheat": "2025-04-24 04:42:08 +0000",
       "melon": "2025-04-24 05:29:16 +0000",
       "carrot": "2025-04-23 07:26:47 +0000"
@@ -5454,6 +5455,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 05:58:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-04-24 05:11:14 +0000"
@@ -5772,9 +5779,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-24 05:47:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_chicken_cuts": {
     "criteria": {
       "cooked_chicken_cuts": "2025-04-24 05:43:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-24 05:53:46 +0000"
     },
     "done": true
   },
@@ -5886,6 +5905,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-04-24 05:47:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smelting": {
     "criteria": {
       "has_dough": "2025-04-24 05:39:20 +0000"
@@ -5976,9 +6001,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-24 06:00:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-24 05:51:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-04-24 05:15:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-24 05:53:46 +0000"
     },
     "done": true
   },
@@ -6084,6 +6127,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-24 05:53:46 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-04-24 04:56:08 +0000"
@@ -6105,6 +6154,12 @@
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2025-04-24 05:39:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-04-24 05:58:38 +0000"
     },
     "done": true
   },
@@ -6327,6 +6382,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-24 03:41:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-04-24 05:58:38 +0000"
     },
     "done": true
   },
