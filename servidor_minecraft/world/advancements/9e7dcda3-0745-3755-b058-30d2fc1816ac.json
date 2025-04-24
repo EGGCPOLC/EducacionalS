@@ -251,6 +251,7 @@
       "cooked_porkchop": "2025-04-23 07:18:39 +0000",
       "cooked_mutton": "2025-04-23 07:29:42 +0000",
       "cooked_beef": "2025-04-23 08:11:05 +0000",
+      "porkchop": "2025-04-24 06:26:38 +0000",
       "apple": "2025-04-23 07:09:24 +0000",
       "rotten_flesh": "2025-04-23 07:41:45 +0000",
       "cooked_chicken": "2025-04-23 07:12:53 +0000"
@@ -3482,9 +3483,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-24 06:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-24 06:25:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 06:29:06 +0000"
     },
     "done": true
   },
@@ -3536,9 +3549,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-24 06:30:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-24 06:29:06 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cake_stand": {
     "criteria": {
       "has_brick": "2025-04-24 06:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-24 06:29:06 +0000"
     },
     "done": true
   },
@@ -3572,6 +3603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-24 06:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-24 06:25:12 +0000"
@@ -3581,6 +3618,12 @@
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-04-24 06:20:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 06:29:06 +0000"
     },
     "done": true
   },
@@ -3602,6 +3645,12 @@
     },
     "done": true
   },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-04-24 06:30:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-24 06:20:56 +0000"
@@ -3617,6 +3666,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-24 06:25:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-24 06:29:06 +0000"
     },
     "done": true
   },
