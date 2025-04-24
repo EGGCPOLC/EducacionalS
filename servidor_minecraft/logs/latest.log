@@ -745,3 +745,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 04:10:38.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 tried to swim in lava
 [24Apr2025 04:11:11.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17757, l='ServerLevel[world]', x=9.85, y=84.00, z=-170.41] died, message: 'Farmer was slain by Zombie'
 [24Apr2025 04:15:33.059] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3119ms or 62 ticks
+[24Apr2025 04:20:03.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [A Seedy Place]
+[24Apr2025 04:23:34.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Mimic
+[24Apr2025 04:23:52.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Voluntary Exile]
+[24Apr2025 04:24:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was shot by Pillager
+[24Apr2025 04:25:46.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[24Apr2025 04:25:46.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[24Apr2025 04:27:32.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Chest Slayer]

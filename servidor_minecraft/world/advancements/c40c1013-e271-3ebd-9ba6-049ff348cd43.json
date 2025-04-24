@@ -3090,6 +3090,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-24 04:23:52 +0000",
       "minecraft:skeleton": "2025-04-23 08:03:18 +0000",
       "minecraft:spider": "2025-04-23 05:35:46 +0000",
       "minecraft:creeper": "2025-04-23 05:39:38 +0000",
@@ -5222,6 +5223,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
+    },
+    "done": true
+  },
   "vinery:main/forbidden_fruit": {
     "criteria": {
       "apple": "2025-04-24 02:47:48 +0000"
@@ -5234,6 +5241,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-24 04:23:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-04-24 02:47:48 +0000"
@@ -5242,10 +5255,24 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "tomato": "2025-04-24 04:20:34 +0000",
       "kelp": "2025-04-24 02:49:08 +0000",
+      "wheat": "2025-04-24 04:20:03 +0000",
       "carrot": "2025-04-24 04:05:21 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/crafting_bowl": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
@@ -5319,6 +5346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-24 04:16:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-24 04:05:01 +0000"
@@ -5346,6 +5379,18 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-04-24 03:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-24 04:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-04-24 04:16:44 +0000"
     },
     "done": true
   },
