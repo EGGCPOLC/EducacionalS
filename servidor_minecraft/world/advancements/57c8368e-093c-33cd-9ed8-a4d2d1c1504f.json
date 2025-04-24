@@ -64,6 +64,7 @@
       "minecraft:beach": "2025-04-23 08:46:00 +0000",
       "minecraft:stony_peaks": "2025-04-23 04:24:41 +0000",
       "minecraft:river": "2025-04-23 04:13:51 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-24 10:38:42 +0000",
       "minecraft:stony_shore": "2025-04-23 08:20:16 +0000",
       "minecraft:snowy_taiga": "2025-04-23 08:53:42 +0000",
       "minecraft:jagged_peaks": "2025-04-23 05:04:29 +0000",
@@ -138,6 +139,7 @@
       "field": "2025-04-24 08:02:57 +0000",
       "orchard": "2025-04-24 07:03:46 +0000",
       "lavender_forest": "2025-04-23 08:20:53 +0000",
+      "mediterranean_forest": "2025-04-24 10:23:58 +0000",
       "coniferous_forest": "2025-04-23 08:51:10 +0000",
       "redwood_forest": "2025-04-24 07:03:54 +0000",
       "seasonal_orchard": "2025-04-24 07:17:57 +0000",
@@ -6237,39 +6239,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "has_bone_meal": "2025-04-24 09:07:37 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/craft_coffin": {
-    "criteria": {
-      "coffin": "2025-04-24 09:07:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-04-24 09:07:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-24 07:56:31 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-04-24 09:07:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-04-24 07:56:31 +0000"
+      "kill_mimic": "2025-04-24 06:48:57 +0000"
     },
     "done": true
   },
@@ -6285,33 +6257,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
-      "has_golden_carrot": "2025-04-24 09:06:47 +0000"
+      "has_golden_knife": "2025-04-24 07:48:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "has_bone_meal": "2025-04-24 09:07:37 +0000"
+      "has_stripped_logs": "2025-04-24 07:56:31 +0000"
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
-      "kill_mimic": "2025-04-24 06:48:57 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-04-24 09:45:20 +0000"
+      "has_log": "2025-04-24 07:56:31 +0000"
     },
     "done": true
   },
   "beautify:progression/hanging_pot": {
     "criteria": {
       "obtain": "2025-04-24 08:02:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-04-24 09:06:47 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-24 09:07:23 +0000"
     },
     "done": true
   },
@@ -6333,39 +6311,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-04-24 09:45:20 +0000"
-    },
-    "done": true
-  },
   "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-24 09:07:23 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-04-24 09:07:37 +0000"
-    },
-    "done": true
-  },
   "ribbits:recipes/mossy_oak_planks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-24 09:07:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-24 09:45:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-04-24 07:48:35 +0000"
     },
     "done": true
   },
@@ -6384,6 +6338,66 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-24 09:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-24 09:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-24 09:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-24 09:07:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-04-24 09:07:37 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2025-04-24 09:07:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-04-24 09:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-24 09:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 09:45:20 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-04-24 10:36:16 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-04-24 10:36:37 +0000"
     },
     "done": true
   },

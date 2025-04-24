@@ -1016,3 +1016,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 10:09:44.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
 [24Apr2025 10:12:20.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
 [24Apr2025 10:12:20.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[24Apr2025 10:14:16.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.32.186.126:37295] logged in with entity id 260636 at (327.146960277988, 63.0, 974.7748178202417)
+[24Apr2025 10:14:16.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[24Apr2025 10:14:37.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.90.182.225:55975] logged in with entity id 261012 at (148.75449476568656, 110.0, -77.40660232880657)
+[24Apr2025 10:14:37.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[24Apr2025 10:16:31.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/261126, l='ServerLevel[world]', x=16.39, y=78.00, z=-205.30] died, message: 'Villager was slain by Zombie'
+[24Apr2025 10:17:30.981] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3144ms or 62 ticks
+[24Apr2025 10:20:05.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.2898331230530289
+[24Apr2025 10:20:05.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.9559626566473867
+[24Apr2025 10:20:16.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.25622710311341734
+[24Apr2025 10:20:16.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.9116023432304132
+[24Apr2025 10:24:29.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.30647184723136434
+[24Apr2025 10:24:29.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.7674252178499046
+[24Apr2025 10:24:29.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 1.1409580197831701
+[24Apr2025 10:25:00.714] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3122ms or 62 ticks
+[24Apr2025 10:32:37.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/262984, l='ServerLevel[world]', x=331.93, y=70.00, z=970.07] died, message: 'Nitwit was slain by ica_1016'
+[24Apr2025 10:36:16.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Stay dead]
+[24Apr2025 10:36:37.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Source of Evil]
