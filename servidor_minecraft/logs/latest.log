@@ -779,3 +779,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 06:03:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Zombie
 [24Apr2025 06:05:09.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was blown up by Creeper
 [24Apr2025 06:05:33.058] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3138ms or 62 ticks
+[24Apr2025 06:16:03.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.9.150.154:41753] logged in with entity id 113933 at (102.65284525559959, 111.0, -103.88450521281415)
+[24Apr2025 06:16:03.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[24Apr2025 06:16:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Ice Bucket Challenge]
+[24Apr2025 06:19:14.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Hot Stuff]
