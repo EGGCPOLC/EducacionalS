@@ -856,3 +856,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 07:00:25.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.25505839623824045
 [24Apr2025 07:00:25.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.9084622799523743
 [24Apr2025 07:00:25.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 1.5626025920153381
+[24Apr2025 07:02:21.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.2962774911476913
+[24Apr2025 07:02:21.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.765466321370809
+[24Apr2025 07:02:21.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 1.0
+[24Apr2025 07:05:16.113] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3070ms or 61 ticks
+[24Apr2025 07:09:00.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/5663, l='ServerLevel[world]', x=50.44, y=76.00, z=-214.35] died, message: 'Farmer was slain by Zombie'
