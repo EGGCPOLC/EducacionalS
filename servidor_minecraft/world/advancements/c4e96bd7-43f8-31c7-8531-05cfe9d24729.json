@@ -340,6 +340,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-04-24 04:06:20 +0000",
       "shrubland": "2025-04-23 04:02:23 +0000",
       "rocky_shrubland": "2025-04-23 05:38:55 +0000",
       "scrubland": "2025-04-23 04:15:35 +0000",
