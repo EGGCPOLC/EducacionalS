@@ -347,6 +347,7 @@
       "scrubland": "2025-04-23 04:15:35 +0000",
       "lavender_forest": "2025-04-24 01:57:34 +0000",
       "mediterranean_forest": "2025-04-24 02:13:31 +0000",
+      "redwood_forest": "2025-04-24 10:05:38 +0000",
       "dune_beach": "2025-04-24 01:42:24 +0000",
       "pasture": "2025-04-23 04:13:32 +0000",
       "lavender_field": "2025-04-24 09:48:20 +0000",
@@ -6733,6 +6734,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-04-24 10:05:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
     "criteria": {
       "has_warped_planks": "2025-04-24 09:11:42 +0000"
@@ -6910,6 +6917,12 @@
   "handcrafted:recipes/misc/warped_dining_bench": {
     "criteria": {
       "has_warped_dining_bench": "2025-04-24 09:11:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 10:05:48 +0000"
     },
     "done": true
   },

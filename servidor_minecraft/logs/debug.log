@@ -6744,3 +6744,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 09:50:41.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 09:50:41.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Apr2025 09:51:58.891] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3034ms or 60 ticks
+[24Apr2025 09:55:41.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 09:55:41.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 09:59:00.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas burned to death
+[24Apr2025 09:59:30.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96915, l='ServerLevel[world]', x=109.81, y=81.00, z=-124.30] died, message: 'Villager was slain by Zombie'
+[24Apr2025 09:59:33.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/246133, l='ServerLevel[world]', x=325.59, y=70.00, z=907.94] died, message: 'Librarian was slain by Zombie'
+[24Apr2025 09:59:40.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/246065, l='ServerLevel[world]', x=319.35, y=70.00, z=912.41] died, message: 'Nitwit was slain by Zombie Villager'
+[24Apr2025 10:00:41.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 10:00:41.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 10:00:41.136] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3152ms or 63 ticks
+[24Apr2025 10:05:41.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 10:05:41.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 10:07:41.518] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3042ms or 60 ticks
+[24Apr2025 10:09:44.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[24Apr2025 10:09:44.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[24Apr2025 10:10:40.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 10:10:41.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 10:12:20.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[24Apr2025 10:12:20.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
