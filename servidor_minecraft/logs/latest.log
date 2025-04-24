@@ -947,3 +947,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 08:16:33.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
 [24Apr2025 08:18:59.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 moved too quickly! 0.2809684543088906,-11.360957522732676,1.229138594588079
 [24Apr2025 08:19:01.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 moved too quickly! 0.2944651161373031,-10.867409983895072,1.3585801925859897
+[24Apr2025 08:25:41.112] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3222ms or 64 ticks

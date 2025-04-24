@@ -6564,3 +6564,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 08:19:50.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [24Apr2025 08:20:41.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 08:20:41.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 08:21:58.930] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Apr2025 08:25:41.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 08:25:41.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 08:25:41.112] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3222ms or 64 ticks
+[24Apr2025 08:30:26.970] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Apr2025 08:30:41.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 08:30:41.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
