@@ -740,3 +740,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 03:37:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 tried to swim in lava
 [24Apr2025 03:38:53.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was burnt to a crisp whilst fighting Zombie
 [24Apr2025 03:48:54.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/23, l='ServerLevel[world]', x=204.05, y=88.56, z=76.50] died, message: 'Farmer was sliced to death by a ceiling fan'
+[24Apr2025 03:58:28.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was mauled by Necromancer's undead
+[24Apr2025 04:06:30.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was blown up by Creeper
