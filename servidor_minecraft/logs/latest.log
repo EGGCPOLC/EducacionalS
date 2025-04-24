@@ -791,3 +791,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 06:28:54.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [We Need to Go Deeper]
 [24Apr2025 06:28:54.432] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3310ms or 66 ticks
 [24Apr2025 06:38:04.564] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3012ms or 60 ticks
+[24Apr2025 06:40:33.067] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3135ms or 62 ticks
+[24Apr2025 06:40:47.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Sneak 100]
+[24Apr2025 06:42:33.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[24Apr2025 06:42:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[24Apr2025 06:43:54.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was blown up by Creeper
+[24Apr2025 06:44:06.824] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a1f9790[id=<null>,name=AkujinPas,properties={},legacy=false] (/127.90.182.225:60135) lost connection: Disconnected
+[24Apr2025 06:44:32.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was caught by Necromancer's fangs
+[24Apr2025 06:44:54.069] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10531ed[id=<null>,name=AkujinPas,properties={},legacy=false] (/127.90.182.225:56503) lost connection: Disconnected
+[24Apr2025 06:44:58.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Lex_Ssuid: Kicked by an operator
+[24Apr2025 06:44:58.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Kicked by an operator
+[24Apr2025 06:44:58.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[24Apr2025 06:45:05.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was killed by Necromancer's magic missile
+[24Apr2025 06:45:13.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was shot by Summoned Skeleton
+[24Apr2025 06:45:23.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.90.182.225:52381] logged in with entity id 125433 at (34.47302856211502, -50.0, -109.7898692464774)
+[24Apr2025 06:45:23.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[24Apr2025 06:45:26.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.9.150.154:39049] logged in with entity id 125448 at (63.50278914648204, 96.25220334025373, -142.58635664869374)
+[24Apr2025 06:45:26.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[24Apr2025 06:45:28.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was shot by Summoned Skeleton
+[24Apr2025 06:45:49.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was killed by Necromancer's magic missile
+[24Apr2025 06:46:18.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was doomed to fall by Summoned Skeleton
+[24Apr2025 06:48:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Chest Slayer]

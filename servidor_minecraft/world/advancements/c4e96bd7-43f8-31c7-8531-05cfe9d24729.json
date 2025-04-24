@@ -5479,9 +5479,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-24 06:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_spruce_planks": "2025-04-24 03:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
     },
     "done": true
   },
@@ -5497,6 +5515,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-24 04:56:08 +0000"
@@ -5506,6 +5536,12 @@
   "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
       "has_straw": "2025-04-24 05:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
     },
     "done": true
   },
@@ -5524,6 +5560,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-04-24 06:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
     },
     "done": true
   },
@@ -5593,6 +5635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-04-24 03:41:47 +0000"
@@ -5647,6 +5695,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-24 02:47:05 +0000"
@@ -5686,6 +5740,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-04-24 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
     },
     "done": true
   },
@@ -5791,6 +5851,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-04-24 06:36:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2025-04-24 03:41:47 +0000"
@@ -5827,6 +5893,12 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-04-24 04:56:08 +0000"
@@ -5851,9 +5923,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-04-24 05:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
     },
     "done": true
   },
@@ -6067,6 +6151,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-04-24 06:36:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-04-24 05:51:37 +0000"
@@ -6133,6 +6223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-24 05:11:14 +0000"
@@ -6142,6 +6238,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-04-24 05:10:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-04-24 06:36:35 +0000"
     },
     "done": true
   },
@@ -6499,6 +6601,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-04-24 06:36:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-04-24 03:41:47 +0000"
@@ -6538,6 +6646,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-24 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
     },
     "done": true
   },
@@ -6586,6 +6700,12 @@
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-04-24 04:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 06:37:21 +0000"
     },
     "done": true
   },
