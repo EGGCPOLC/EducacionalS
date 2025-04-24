@@ -783,3 +783,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 06:16:03.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
 [24Apr2025 06:16:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Ice Bucket Challenge]
 [24Apr2025 06:19:14.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Hot Stuff]
+[24Apr2025 06:21:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Suit Up]
+[24Apr2025 06:21:37.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[24Apr2025 06:21:37.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[24Apr2025 06:23:04.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.90.182.225:51935] logged in with entity id 115663 at (-64.81744835208771, -56.0, -106.5782967531018)
+[24Apr2025 06:23:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[24Apr2025 06:28:54.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [We Need to Go Deeper]
+[24Apr2025 06:28:54.432] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3310ms or 66 ticks

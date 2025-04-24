@@ -5737,6 +5737,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-24 06:19:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/chocolate_pie": {
     "criteria": {
       "has_pie_crust": "2025-04-24 05:36:19 +0000"
@@ -5824,6 +5830,12 @@
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-04-24 03:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-24 06:16:53 +0000"
     },
     "done": true
   },
@@ -6490,6 +6502,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-24 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 06:16:53 +0000"
     },
     "done": true
   },
