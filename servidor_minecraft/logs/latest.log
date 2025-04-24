@@ -769,3 +769,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 05:16:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Wild Crops]
 [24Apr2025 05:19:58.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Disconnected
 [24Apr2025 05:19:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
+[24Apr2025 05:45:08.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.90.182.225:51035] logged in with entity id 103976 at (61.29725151706394, -54.0, -42.473884128479106)
+[24Apr2025 05:45:08.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
