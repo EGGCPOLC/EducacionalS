@@ -762,3 +762,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 05:00:27.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=69, z=-53} BlockPos{x=102, y=68, z=-52}
 [24Apr2025 05:00:27.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=69, z=-53} BlockPos{x=102, y=68, z=-52}
 [24Apr2025 05:02:35.645] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3024ms or 60 ticks
+[24Apr2025 05:08:58.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has reached the goal [Dinner's Served!]
+[24Apr2025 05:13:03.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer fell from a high place
+[24Apr2025 05:15:22.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Hunt and Gather]
+[24Apr2025 05:15:33.046] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3041ms or 60 ticks
+[24Apr2025 05:16:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Wild Crops]
+[24Apr2025 05:19:58.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Disconnected
+[24Apr2025 05:19:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
