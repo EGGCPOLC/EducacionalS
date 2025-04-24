@@ -5245,6 +5245,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-24 06:53:40 +0000",
       "tomato": "2025-04-24 04:20:34 +0000",
       "kelp": "2025-04-24 02:49:08 +0000",
       "rice": "2025-04-24 06:44:19 +0000",
@@ -5685,6 +5686,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-04-24 06:49:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-04-24 05:54:04 +0000"
@@ -5790,6 +5797,12 @@
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2025-04-24 05:59:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2025-04-24 07:00:08 +0000"
     },
     "done": true
   },
