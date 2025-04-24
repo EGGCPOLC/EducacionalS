@@ -174,7 +174,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2025-04-23 04:32:28 +0000",
-      "bread": "2025-04-23 04:06:25 +0000"
+      "bread": "2025-04-23 04:06:25 +0000",
+      "rotten_flesh": "2025-04-24 03:17:39 +0000"
     },
     "done": false
   },
@@ -5197,6 +5198,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-24 03:17:31 +0000"
+    },
+    "done": true
+  },
   "vinery:main/forbidden_fruit": {
     "criteria": {
       "apple": "2025-04-24 02:47:48 +0000"
@@ -5242,6 +5249,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-04-24 02:17:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-24 03:17:31 +0000"
     },
     "done": true
   },
