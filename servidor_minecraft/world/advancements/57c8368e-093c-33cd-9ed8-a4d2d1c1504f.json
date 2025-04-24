@@ -3514,6 +3514,7 @@
       "minecraft:pillager": "2025-04-23 08:39:48 +0000",
       "minecraft:skeleton": "2025-04-23 05:38:48 +0000",
       "minecraft:ravager": "2025-04-24 09:09:09 +0000",
+      "minecraft:vindicator": "2025-04-24 09:23:00 +0000",
       "minecraft:spider": "2025-04-23 04:51:20 +0000",
       "minecraft:creeper": "2025-04-23 05:19:45 +0000",
       "minecraft:enderman": "2025-04-24 03:22:53 +0000",
@@ -6301,6 +6302,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-04-24 09:45:20 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/hanging_pot": {
     "criteria": {
       "obtain": "2025-04-24 08:02:53 +0000"
@@ -6325,6 +6332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-24 09:45:20 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-24 09:07:23 +0000"
@@ -6340,6 +6353,12 @@
   "ribbits:recipes/mossy_oak_planks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-24 09:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 09:45:20 +0000"
     },
     "done": true
   },
