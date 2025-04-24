@@ -950,3 +950,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Apr2025 08:25:41.112] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3222ms or 64 ticks
 [24Apr2025 08:38:58.000] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3100ms or 62 ticks
 [24Apr2025 08:52:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[24Apr2025 08:58:45.436] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3423ms or 68 ticks
+[24Apr2025 09:01:46.405] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 09:01:46.406] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 09:01:49.802] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3059ms or 61 ticks
+[24Apr2025 09:07:05.315] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3062ms or 61 ticks
+[24Apr2025 09:07:46.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Well prepared]
+[24Apr2025 09:08:57.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman

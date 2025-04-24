@@ -67,6 +67,7 @@
       "minecraft:stony_shore": "2025-04-23 08:20:16 +0000",
       "minecraft:snowy_taiga": "2025-04-23 08:53:42 +0000",
       "minecraft:jagged_peaks": "2025-04-23 05:04:29 +0000",
+      "minecraft:cold_ocean": "2025-04-24 09:02:31 +0000",
       "minecraft:forest": "2025-04-23 05:56:47 +0000",
       "minecraft:frozen_ocean": "2025-04-23 08:57:39 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-23 08:59:29 +0000",
@@ -141,6 +142,7 @@
       "redwood_forest": "2025-04-24 07:03:54 +0000",
       "seasonal_orchard": "2025-04-24 07:17:57 +0000",
       "dune_beach": "2025-04-23 08:45:38 +0000",
+      "seasonal_forest": "2025-04-24 09:01:59 +0000",
       "pasture": "2025-04-23 08:45:25 +0000",
       "volcanic_plains": "2025-04-23 09:15:02 +0000",
       "lavender_field": "2025-04-23 08:50:19 +0000",
@@ -2001,6 +2003,7 @@
       "golden_apple": "2025-04-24 01:59:34 +0000",
       "rotten_flesh": "2025-04-23 05:56:04 +0000",
       "glow_berries": "2025-04-24 07:19:44 +0000",
+      "golden_carrot": "2025-04-24 09:06:55 +0000",
       "cooked_chicken": "2025-04-23 10:01:50 +0000",
       "carrot": "2025-04-24 07:16:14 +0000"
     },
@@ -3510,6 +3513,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-23 08:39:48 +0000",
       "minecraft:skeleton": "2025-04-23 05:38:48 +0000",
+      "minecraft:ravager": "2025-04-24 09:09:09 +0000",
       "minecraft:spider": "2025-04-23 04:51:20 +0000",
       "minecraft:creeper": "2025-04-23 05:19:45 +0000",
       "minecraft:enderman": "2025-04-24 03:22:53 +0000",
@@ -6231,9 +6235,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-24 09:07:37 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2025-04-24 09:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-24 09:07:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-24 07:56:31 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-24 09:07:23 +0000"
     },
     "done": true
   },
@@ -6255,6 +6283,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-04-24 09:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-24 09:07:37 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-04-24 06:48:57 +0000"
@@ -6267,9 +6307,63 @@
     },
     "done": true
   },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-04-24 09:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-24 09:07:23 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-24 09:07:23 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-24 09:07:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-04-24 09:07:37 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-24 09:07:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-04-24 07:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-24 09:07:23 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-24 09:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-24 09:07:23 +0000"
     },
     "done": true
   },
