@@ -1916,7 +1916,9 @@
     "criteria": {
       "bakery:glowberry_tart": "2025-04-23 04:35:30 +0000",
       "bakery:sandwich": "2025-04-23 05:35:01 +0000",
-      "bakery:misslilitu_biscuit": "2025-04-23 04:35:22 +0000"
+      "bakery:misslilitu_biscuit": "2025-04-23 04:35:22 +0000",
+      "bakery:bun": "2025-04-24 07:33:41 +0000",
+      "bakery:waffle": "2025-04-24 07:33:33 +0000"
     },
     "done": false
   },
@@ -1928,7 +1930,9 @@
   },
   "bakery:main/get_all_baked_goods": {
     "criteria": {
-      "bakery:glowberry_tart": "2025-04-23 04:35:30 +0000"
+      "bakery:glowberry_tart": "2025-04-23 04:35:30 +0000",
+      "bakery:bun": "2025-04-24 07:33:41 +0000",
+      "bakery:waffle": "2025-04-24 07:33:33 +0000"
     },
     "done": false
   },

@@ -4036,6 +4036,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-04-24 07:25:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-04-24 07:06:03 +0000"
@@ -4045,6 +4051,18 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
     "criteria": {
       "has_acacia_planks": "2025-04-24 07:06:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-04-24 07:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-24 07:25:35 +0000"
     },
     "done": true
   },
@@ -4102,6 +4120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-24 07:41:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-04-24 07:06:03 +0000"
@@ -4120,6 +4144,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-04-24 07:32:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-04-24 07:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-24 07:25:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-04-24 07:02:15 +0000"
@@ -4129,6 +4171,24 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-04-24 07:06:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-04-24 07:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-24 07:40:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-24 07:31:57 +0000"
     },
     "done": true
   },
@@ -4147,6 +4207,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
     "criteria": {
       "has_acacia_planks": "2025-04-24 07:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 07:45:41 +0000"
     },
     "done": true
   },
@@ -4180,9 +4246,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-04-24 07:25:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-04-24 07:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-24 07:41:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_bench": {
     "criteria": {
       "has_acacia_bench": "2025-04-24 07:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-24 07:40:06 +0000"
     },
     "done": true
   },
@@ -4222,6 +4312,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-24 07:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-04-24 07:03:09 +0000"
@@ -4258,6 +4354,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-24 07:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-24 07:40:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
     "criteria": {
       "has_acacia_planks": "2025-04-24 07:06:03 +0000"
@@ -4270,15 +4378,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-24 07:31:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_nightstand": {
     "criteria": {
       "has_acacia_nightstand": "2025-04-24 07:06:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-24 07:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-24 07:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 07:45:41 +0000"
     },
     "done": true
   },
@@ -4294,15 +4420,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-24 07:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-24 07:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 07:45:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
     "criteria": {
       "has_acacia_planks": "2025-04-24 07:06:03 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-04-24 07:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-24 07:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-24 07:26:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
     "criteria": {
       "has_straw": "2025-04-24 06:49:53 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/eat_sandwich": {
+    "criteria": {
+      "eat_sandwich": "2025-04-24 07:29:45 +0000"
     },
     "done": true
   },
