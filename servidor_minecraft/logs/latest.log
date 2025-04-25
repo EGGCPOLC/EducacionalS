@@ -728,3 +728,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 04:10:52.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
 [25Apr2025 04:11:11.993] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3057ms or 61 ticks
 [25Apr2025 04:12:53.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/10951, l='ServerLevel[world]', x=340.46, y=67.00, z=942.63] died, message: 'Toolsmith was slain by Zombie'
+[25Apr2025 04:25:02.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [It's Purple!]
+[25Apr2025 04:32:01.673] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3122ms or 62 ticks
