@@ -71,9 +71,11 @@
       "minecraft:snowy_plains": "2025-04-25 05:18:43 +0000",
       "minecraft:snowy_taiga": "2025-04-23 08:53:42 +0000",
       "minecraft:dripstone_caves": "2025-04-25 05:01:13 +0000",
+      "minecraft:grove": "2025-04-25 06:31:43 +0000",
       "minecraft:jagged_peaks": "2025-04-23 05:04:29 +0000",
       "minecraft:cold_ocean": "2025-04-24 09:02:31 +0000",
       "minecraft:forest": "2025-04-23 05:56:47 +0000",
+      "minecraft:lush_caves": "2025-04-25 06:33:13 +0000",
       "minecraft:ice_spikes": "2025-04-25 05:19:59 +0000",
       "minecraft:frozen_ocean": "2025-04-23 08:57:39 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-23 08:59:29 +0000",
@@ -6949,6 +6951,18 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-04-25 06:18:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_spore_blossom": {
+    "criteria": {
+      "has_spore_blossom": "2025-04-25 06:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-25 06:39:20 +0000"
     },
     "done": true
   },
