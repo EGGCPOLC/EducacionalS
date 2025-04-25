@@ -6702,3 +6702,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 12:23:00.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
 [25Apr2025 12:23:17.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was killed by Evoker using magic
 [25Apr2025 12:23:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:23:39.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:23:51.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:24:14.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:24:40.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:25:05.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:25:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:25:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:25:58.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 12:25:58.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 12:28:04.292] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[25Apr2025 12:30:58.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 12:30:58.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 12:31:20.283] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[25Apr2025 12:32:50.035] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [78b200f2-c137-4bb3-b1df-4ba0984e7ac9]
