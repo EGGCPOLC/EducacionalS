@@ -1138,3 +1138,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 11:23:40.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.5690097513571573
 [25Apr2025 11:23:40.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.7139513327178975
 [25Apr2025 11:23:40.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.7915066830806836
+[25Apr2025 11:36:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was eviscerated by Archevoker's vexes
+[25Apr2025 11:36:58.518] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3364ms or 67 ticks
+[25Apr2025 11:37:02.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was eviscerated by Archevoker's vexes
+[25Apr2025 11:37:34.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas went off with a bang thanks to Archevoker
+[25Apr2025 11:38:07.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was eviscerated by Archevoker's vexes
+[25Apr2025 11:38:09.077] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3244ms or 64 ticks
