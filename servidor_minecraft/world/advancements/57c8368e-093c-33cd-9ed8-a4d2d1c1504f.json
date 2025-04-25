@@ -59,6 +59,7 @@
       "minecraft:taiga": "2025-04-23 08:53:08 +0000",
       "minecraft:frozen_river": "2025-04-23 08:53:32 +0000",
       "minecraft:sunflower_plains": "2025-04-23 08:45:45 +0000",
+      "minecraft:cherry_grove": "2025-04-25 04:59:00 +0000",
       "minecraft:windswept_hills": "2025-04-24 07:07:41 +0000",
       "minecraft:savanna_plateau": "2025-04-23 04:24:15 +0000",
       "minecraft:beach": "2025-04-23 08:46:00 +0000",
@@ -6687,6 +6688,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/medium_graveyard": {
+    "criteria": {
+      "medium_graveyard": "2025-04-25 04:51:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-25 04:50:34 +0000"
@@ -6738,6 +6745,12 @@
   "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
       "arcane_anvil": "2025-04-25 04:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-04-25 04:53:09 +0000"
     },
     "done": true
   },
