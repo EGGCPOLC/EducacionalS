@@ -5253,6 +5253,7 @@
       "tomato": "2025-04-24 04:20:34 +0000",
       "kelp": "2025-04-24 02:49:08 +0000",
       "rice": "2025-04-24 06:44:19 +0000",
+      "potato": "2025-04-25 04:38:16 +0000",
       "wheat": "2025-04-24 04:20:03 +0000",
       "carrot": "2025-04-24 04:05:21 +0000"
     },
@@ -5849,6 +5850,42 @@
   "farmersdelight:recipes/decorations/rope_from_safety_net": {
     "criteria": {
       "has_safety_net": "2025-04-24 07:00:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-04-25 04:39:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-04-25 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-04-25 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-25 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-25 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-25 04:35:33 +0000"
     },
     "done": true
   },
