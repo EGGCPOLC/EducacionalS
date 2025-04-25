@@ -7202,5 +7202,17 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-04-25 18:08:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-04-25 18:08:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
