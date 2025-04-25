@@ -69,6 +69,7 @@
       "minecraft:lukewarm_ocean": "2025-04-24 10:38:42 +0000",
       "minecraft:stony_shore": "2025-04-23 08:20:16 +0000",
       "minecraft:snowy_taiga": "2025-04-23 08:53:42 +0000",
+      "minecraft:dripstone_caves": "2025-04-25 05:01:13 +0000",
       "minecraft:jagged_peaks": "2025-04-23 05:04:29 +0000",
       "minecraft:cold_ocean": "2025-04-24 09:02:31 +0000",
       "minecraft:forest": "2025-04-23 05:56:47 +0000",
@@ -139,6 +140,7 @@
       "wetland": "2025-04-24 07:18:54 +0000",
       "cold_desert": "2025-04-23 08:51:54 +0000",
       "old_growth_woodland": "2025-04-23 08:16:00 +0000",
+      "maple_woods": "2025-04-25 05:06:09 +0000",
       "field": "2025-04-24 08:02:57 +0000",
       "orchard": "2025-04-24 07:03:46 +0000",
       "lavender_forest": "2025-04-23 08:20:53 +0000",
@@ -6661,6 +6663,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-04-25 04:03:11 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/find_wild_crops": {
+    "criteria": {
+      "tomato_seeds": "2025-04-25 05:09:20 +0000"
     },
     "done": true
   },
