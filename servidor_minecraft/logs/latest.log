@@ -680,3 +680,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 17:42:03.145] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3084ms or 61 ticks
 [25Apr2025 17:42:31.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: claosgamer[/127.230.253.189:36243] logged in with entity id 977 at (8.699999988079071, 99.0, -2.444909778898803)
 [25Apr2025 17:42:31.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer joined the game
+[25Apr2025 17:45:05.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[25Apr2025 17:45:05.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[25Apr2025 17:45:06.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <claosgamer> discod perro
+[25Apr2025 17:45:11.965] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3382ms or 67 ticks
+[25Apr2025 17:48:29.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:44031] logged in with entity id 2722 at (109.09442124742004, 111.0, -112.49107200599944)
+[25Apr2025 17:48:29.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
