@@ -6131,6 +6131,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-25 08:41:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-25 07:48:20 +0000"
@@ -6317,6 +6323,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-25 08:41:03 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/green_mist": {
     "criteria": {
       "has_slashblade": "2025-04-25 06:47:34 +0000"
@@ -6374,6 +6386,12 @@
   "slashblade_addon:recipes/combat/yukari": {
     "criteria": {
       "has_slashblade": "2025-04-25 06:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-25 08:41:03 +0000"
     },
     "done": true
   },
