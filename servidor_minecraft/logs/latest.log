@@ -1016,3 +1016,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 06:44:48.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [25Apr2025 06:46:46.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.115.18.194:40127] logged in with entity id 161396 at (89.90102875334946, 110.0, -83.33892913830398)
 [25Apr2025 06:46:46.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[25Apr2025 06:47:47.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Blade Arts -Combo A-              ]
+[25Apr2025 06:47:49.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Blade Arts -Combo B-              ]
+[25Apr2025 06:48:57.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Blade Arts -Combo C-              ]
+[25Apr2025 06:49:05.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Blade Arts -Aerial Rave B-       ]
+[25Apr2025 06:50:10.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Cover Me with Diamonds]
+[25Apr2025 06:51:11.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[25Apr2025 06:51:11.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[25Apr2025 06:51:37.793] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3060ms or 61 ticks
+[25Apr2025 06:54:21.869] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3158ms or 63 ticks
