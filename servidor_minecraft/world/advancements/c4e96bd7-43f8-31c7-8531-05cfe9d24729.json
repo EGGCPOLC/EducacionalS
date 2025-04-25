@@ -749,6 +749,7 @@
     "criteria": {
       "cooked_mutton": "2025-04-24 03:43:14 +0000",
       "cooked_beef": "2025-04-24 01:58:42 +0000",
+      "apple": "2025-04-25 08:30:10 +0000",
       "pumpkin_pie": "2025-04-24 02:20:42 +0000",
       "bread": "2025-04-23 04:10:03 +0000",
       "cooked_chicken": "2025-04-23 05:44:52 +0000",
@@ -7083,6 +7084,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-25 08:28:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-04-25 06:29:21 +0000"
@@ -7134,6 +7141,18 @@
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-25 06:59:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-25 08:28:55 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/crafting_bowl": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-25 08:28:55 +0000"
     },
     "done": true
   },
@@ -7258,6 +7277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-25 08:28:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-25 06:29:21 +0000"
@@ -7291,6 +7316,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-04-25 07:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-04-25 08:29:30 +0000"
     },
     "done": true
   },
