@@ -1147,3 +1147,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 12:00:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas fell from a high place
 [25Apr2025 12:00:58.760] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3051ms or 61 ticks
 [25Apr2025 12:13:17.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas fell from a high place
+[25Apr2025 12:23:00.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:23:17.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was killed by Evoker using magic
+[25Apr2025 12:23:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex

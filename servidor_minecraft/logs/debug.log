@@ -6695,3 +6695,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 12:10:58.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Apr2025 12:10:58.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Apr2025 12:13:17.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas fell from a high place
+[25Apr2025 12:15:58.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 12:15:58.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 12:20:58.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 12:20:58.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 12:23:00.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[25Apr2025 12:23:17.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was killed by Evoker using magic
+[25Apr2025 12:23:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
