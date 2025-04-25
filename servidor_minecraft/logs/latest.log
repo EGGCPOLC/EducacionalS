@@ -1134,3 +1134,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 11:13:50.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was killed by Apothecarist using magic
 [25Apr2025 11:15:58.746] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3107ms or 62 ticks
 [25Apr2025 11:22:00.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> [x:-949, y:95, z:343, dim:minecraft:overworld]
+[25Apr2025 11:23:40.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.2981314443275096
+[25Apr2025 11:23:40.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.5690097513571573
+[25Apr2025 11:23:40.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.7139513327178975
+[25Apr2025 11:23:40.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AkujinPas) moved wrongly! 0.7915066830806836
