@@ -7308,6 +7308,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2025-04-25 10:12:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-04-25 06:29:21 +0000"
