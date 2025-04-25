@@ -6220,6 +6220,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2025-04-25 07:05:38 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/crimsoncherry": {
     "criteria": {
       "has_slashblade": "2025-04-25 06:47:34 +0000"

@@ -7131,6 +7131,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-25 06:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-04-25 05:19:52 +0000"
@@ -7195,6 +7201,12 @@
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-04-25 06:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-25 06:59:19 +0000"
     },
     "done": true
   },

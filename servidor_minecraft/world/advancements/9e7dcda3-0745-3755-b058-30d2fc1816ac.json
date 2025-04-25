@@ -2892,6 +2892,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-25 07:11:55 +0000",
       "wheat": "2025-04-23 07:47:26 +0000"
     },
     "done": false
@@ -4528,9 +4529,51 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-25 07:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-04-25 06:50:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-04-25 07:08:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-04-25 07:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-25 07:11:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-25 07:11:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-04-25 07:11:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-04-25 07:08:33 +0000"
     },
     "done": true
   },
