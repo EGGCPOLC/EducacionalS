@@ -686,3 +686,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 17:45:11.965] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3382ms or 67 ticks
 [25Apr2025 17:48:29.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:44031] logged in with entity id 2722 at (109.09442124742004, 111.0, -112.49107200599944)
 [25Apr2025 17:48:29.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[25Apr2025 17:59:31.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=69, z=-52} BlockPos{x=101, y=68, z=-51}
+[25Apr2025 17:59:31.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=69, z=-52} BlockPos{x=101, y=68, z=-51}
+[25Apr2025 17:59:32.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=69, z=-53} BlockPos{x=101, y=68, z=-53}
+[25Apr2025 17:59:32.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=69, z=-53} BlockPos{x=101, y=68, z=-53}
+[25Apr2025 17:59:42.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=69, z=-49} BlockPos{x=97, y=69, z=-47}
+[25Apr2025 17:59:42.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=69, z=-49} BlockPos{x=97, y=69, z=-47}
+[25Apr2025 17:59:42.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=69, z=-49} BlockPos{x=97, y=69, z=-47}
+[25Apr2025 18:01:30.109] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3110ms or 62 ticks
