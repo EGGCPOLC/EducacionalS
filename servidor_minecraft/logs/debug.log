@@ -4549,3 +4549,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25Apr2025 04:10:52.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
 [25Apr2025 04:11:11.993] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3057ms or 61 ticks
 [25Apr2025 04:12:53.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/10951, l='ServerLevel[world]', x=340.46, y=67.00, z=942.63] died, message: 'Toolsmith was slain by Zombie'
+[25Apr2025 04:15:27.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 04:15:27.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 04:19:58.897] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
+[25Apr2025 04:20:09.919] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
+[25Apr2025 04:20:27.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 04:20:27.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 04:21:10.209] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
